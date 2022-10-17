@@ -1,2 +1,2 @@
 # Tasks
-Daily update on the tasks
+Daily update on the tasks provided.
